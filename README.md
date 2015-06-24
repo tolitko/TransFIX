@@ -2,6 +2,8 @@ TransFIX
 ========
 A Fix 4.2 Message Parser with Sub Millisecond Latency
 
+*Note that version transfix-1.0.2-alpha is the last official version released under the apache license
+
 ![TransFIX](http://chronicle.software/wp-content/uploads/2014/09/TransFix_200px.png)
 ### Content
 * [Overview](https://github.com/OpenHFT/TransFix/wiki#overview)
